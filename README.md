@@ -4,17 +4,19 @@
                 <b>Pratik Amatya</b>
         </samp>
 </h3>
-<br>
+<br/>
 
 <p align="center">
         <!-- Organisation  -->
         <samp>
                 「 I am a full-stack web developer from <b>Nepal</b> 」
-                <br>
-                <br>
+                <br/>
+                <br/>
         </samp>
-  </p>
+ </p>
+  
 ## 🌐 Socials:
+<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratikamatya/) 
 
 # 💻 Tech Stack:
