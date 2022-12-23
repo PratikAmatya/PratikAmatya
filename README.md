@@ -1,3 +1,19 @@
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Pratik Amatya</b>
+        </samp>
+</h3>
+<br>
+
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 I am a full-stack web developer from <b>Nepal</b> 」
+                <br>
+                <br>
+        </samp>
+  </p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratikamatya/) 
 
