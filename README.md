@@ -9,7 +9,7 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 I am a full-stack web developer from <b>Nepal</b> 」
+                「 I am a full-stack web developer 」
                 <br/>
                 <br/>
         </samp>
